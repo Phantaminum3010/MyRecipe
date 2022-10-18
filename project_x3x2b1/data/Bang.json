@@ -1,0 +1,38 @@
+{"Recipes": [
+    {
+        "Ingredients": [
+            {
+                "amount": 500,
+                "name": "Chicken's breast"
+            },
+            {
+                "amount": 28,
+                "name": "White wine"
+            },
+            {
+                "amount": 28,
+                "name": "Soy sauce"
+            },
+            {
+                "amount": 28,
+                "name": "Sesame oil"
+            },
+            {
+                "amount": 28,
+                "name": "Corn starch"
+            },
+            {
+                "amount": 28,
+                "name": "Chilli paste"
+            }
+        ],
+        "Recipe's name": "Kung-pao chicken"
+    },
+    {
+        "Ingredients": [{
+            "amount": 300,
+            "name": "Pasta"
+        }],
+        "Recipe's name": "Spaghetti Carbonara"
+    }
+]}

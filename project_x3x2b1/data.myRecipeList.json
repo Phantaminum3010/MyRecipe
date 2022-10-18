@@ -1,0 +1,17 @@
+{"Recipes": [{
+    "Ingredients": [
+        {
+            "amount": 50,
+            "name": "Cheese"
+        },
+        {
+            "amount": 30,
+            "name": "Butter"
+        },
+        {
+            "amount": 150,
+            "name": "Flour"
+        }
+    ],
+    "Recipe's name": "Cheesecake"
+}]}
